@@ -1,0 +1,11 @@
+/* Votre Style */
+
+#carte{
+	background-image: url("../img/carte2.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#noir{
+	background-color: #000000;
+}
